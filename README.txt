@@ -1,16 +1,10 @@
-# 英語聽解與單字高效記憶互動網頁
+GitHub Pages 上傳方式：
 
-## 直接使用
-打開 `index.html` 即可在電腦瀏覽器使用。
+1. 請先解壓縮這個 ZIP。
+2. 進入解壓縮後的資料夾。
+3. 把裡面的檔案全部上傳到 GitHub repository 最外層，不要上傳資料夾本身。
+4. 最外層應該直接看到：index.html、manifest.webmanifest、sw.js、icon.svg、README.txt。
+5. 到 Settings → Pages，設定 Source: Deploy from a branch，Branch: main，Folder: / root。
+6. 等 Actions 出現綠色勾勾後，再開 Pages 網址。
 
-## 變成隨時隨地可用的網址
-把整個資料夾上傳到 GitHub Pages、Netlify、Vercel 或任何靜態網站空間。
-
-## 手機使用
-部署成 HTTPS 網址後：
-- iPhone Safari：分享 → 加入主畫面
-- Android Chrome：右上角選單 → 加到主畫面 / 安裝應用程式
-
-## 離線使用
-上傳到 HTTPS 網站後，第一次打開會快取主要檔案。之後即使網路不穩，也可以再次打開使用。
-注意：發音功能使用瀏覽器內建 Web Speech API，不同手機/瀏覽器支援程度會略有差異。
+注意：如果你上傳後仍看到舊版，請用無痕視窗開啟，或在手機瀏覽器清除該網站快取。

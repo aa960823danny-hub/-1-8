@@ -1,7 +1,7 @@
 {
   "name": "英語聽解與單字高效記憶互動網頁",
   "short_name": "英語單字記憶",
-  "description": "聽解、單字、發音、翻卡、測驗與申論整合學習網頁。",
+  "description": "聽解、單字、同義字、反義字、發音、翻卡、測驗與申論整合學習網頁。",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
